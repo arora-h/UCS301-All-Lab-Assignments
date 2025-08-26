@@ -3,7 +3,7 @@
 ## Question 1
 
 ### Code
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -69,7 +69,7 @@ int main() {
 ## Question 2
 
 ### Code
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -102,7 +102,7 @@ int main() {
 ## Question 3
 
 ### Code
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -162,7 +162,7 @@ int main() {
 ## Question 4
 
 ### Code
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -237,7 +237,7 @@ int main() {
 ## Question 5
 
 ### Code
-```
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
